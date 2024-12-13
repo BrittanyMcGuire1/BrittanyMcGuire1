@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student working 
 Currently pursuing a Bachelor's degree in Computer Science at Western Governor's University.<br/>
 ## 💼 Career Goals<br/>
 Aspiring to become a software engineer, with a strong interest in coding, cloud computing, and combinatorial problem-solving.<br/>
-## 🛠️ Skills:<br/>
+## 🛠️ Skills<br/>
    Programming: Python, Java, JavaScript, SQL<br/>
    Web Development: HTML, CSS, React<br/>
    Tools: Git, GitHub, Linux, ITIL, VS Code<br/>
