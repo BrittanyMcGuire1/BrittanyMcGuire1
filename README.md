@@ -27,7 +27,7 @@ Exploring advanced algorithms, Artificial Intelligence, AWS fundamentals, and bu
     <b><u>Brick Breaker Game:</u></b><br/>
     - A classic arcade game built using Java, showcasing my understanding of object-oriented programming.<br/>
     **<u>Automation Scripts:</u>**<br/>
-    - Tools to streamline everyday tasks, including file organization and database lookups.!<br/>
+    - Tools to streamline everyday tasks, including file organization and database lookups.<br/>
 
 ## 🌐 Contact<br/>
 [Connect with me on LinkedIn](https://www.linkedin.com/in/brittany-mcguire-59553a338/)
