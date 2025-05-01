@@ -5,7 +5,7 @@
 
 
 
-# ✨ Hi, I'm Brittany! ✨
+# <p align="center"> ✨ Hi, I'm Brittany! ✨</p>
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student working toward a career in Software Engineering. I love solving problems, building projects, and continuously learning to improve my skills.
 
