@@ -31,7 +31,7 @@ Welcome to my GitHub! I am a Computer Science graduate and M.S. Computer Science
 
 ## 💼 What I Do
 
-I build deployed full-stack web applications and machine learning models. I care about writing clean code, understanding the why behind every technical decision, and building things that actually work at a live public URL — not just on localhost.
+I build deployed full-stack web applications and machine learning models. I care about writing clean code, understanding the why behind every technical decision, and building things that actually work at a live public URL and not just on localhost.
 
 Currently deepening my skills in data structures and algorithms and actively applying for software engineering internships.
 
